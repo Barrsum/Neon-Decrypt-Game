@@ -10,6 +10,12 @@
 
 Instead of a basic input form, Neon Decrypt offers an immersive terminal experience. With glowing neon text, scanline overlays, and a detailed decryption log, it elevates a simple logic game into a thrilling hacker simulation.
 
+## Screenshots
+
+![Project Screenshot](home-01.png) 
+![Project Screenshot](home-02.png) 
+![Project Screenshot](home-03.png) 
+
 ## ✨ Features
 
 *   **⚡ Core Game Logic:** The system generates a random PIN (1-100), and you must guess it within 10 attempts.
